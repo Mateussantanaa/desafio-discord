@@ -34,7 +34,7 @@ Reproduzir a página inicial do Discord colocando em prática todos os conceitos
 ---
 
 ## 🔗 Links
-- [Acesse o site](https://SEU-LINK-AQUI)
+- [Acesse o site](https://mateussantanaa.github.io/desafio-discord)
 - [Repositório no GitHub](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
 
 ---
